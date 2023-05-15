@@ -9,7 +9,7 @@
 
 ## Descrição
 
-Repositório utilizado para estudar o curso da Alura: React: desenvolvendo em React Router com JavaScript
+Repositório utilizado para estudar o curso da Alura: **_React: desenvolvendo em React Router com JavaScript_**
 .
 
 ## Onde foi estudado ? :scroll:
