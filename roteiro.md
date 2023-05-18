@@ -15,7 +15,11 @@
 
 ## Aula02
 
-- [ ] Aula 02
+- [ ] Criar o componente `<Menu />`
+- [ ] Importar os estilos do `<Menu />`
+- [ ] Utilizar o `<Menu />` dentro do **BrowserRouter** mas fora de **Router**
+- [ ] Invés de utilizar as tags `a` utilizar o componente do react-router `<Link to='href'>`
+- [ ]
 
 ## Aula03
 
