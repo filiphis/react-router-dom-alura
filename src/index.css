@@ -49,3 +49,8 @@ h3 {
   font-weight: 700;
   line-height: 5rem;
 }
+
+.active {
+  color: red;
+  background-color: black;
+}
