@@ -9,8 +9,8 @@
 - [x] Importar as fonts do google no index.html.
 - [x] Instalar o react-router-dom.
 - [x] Adicionar o componente `BrowserRouter` no component `App`.
-- [x] Criar o componente `Routes` que é responsavel por definir qual rota será mostrada.
-- [x] Criar o compoente <Route path='' element={page} /> para cada rota da aplicação.
+- [x] Criar o componente `Routes` que é responsável por definir qual rota será mostrada.
+- [x] Criar o componente <Route path='' element={page} /> para cada rota da aplicação.
 - [x] O <Route path='*' /> serve para listar uma page que nao combinou com as anteriores.
 
 ## Aula02
