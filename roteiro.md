@@ -15,11 +15,13 @@
 
 ## Aula02
 
-- [ ] Criar o componente `<Menu />` com os links Home e Sobre Mim
+- [ ] Criar o componente `<Menu />` com os links Home e Sobre Mim com a `className={navegacao}`
 - [ ] Importar os estilos do `<Menu />`
 - [ ] Utilizar o `<Menu />` dentro do **BrowserRouter** mas fora de **Router**
 - [ ] Invés de utilizar as tags `a` utilizar o componente do react-router `<Link to='href'>`
-- [ ]Criar o componente `<MenuLink />`
+- [ ]Criar o componente `<MenuLink />` com a `className={link}`
+- [ ] Utilizar o estilo da `className={linkDestacado}` no link ativo/active
+- [ ]
 
 ## Aula03
 
