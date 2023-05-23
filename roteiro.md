@@ -26,6 +26,7 @@
 ## Aula03
 
 - [ ] Criar o componente `<Posts />` e importar o seu css disponibilizado.
+- [ ] Criar o componente `<Rodape />` e importar o seu css disponibilizado.
 
 ## Aula04
 
