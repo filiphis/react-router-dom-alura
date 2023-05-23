@@ -50,7 +50,6 @@ h3 {
   line-height: 5rem;
 }
 
-.active {
-  color: red;
-  background-color: black;
+a.active {
+  border-bottom: 2px solid black;
 }

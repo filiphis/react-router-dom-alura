@@ -15,17 +15,17 @@
 
 ## Aula02
 
-- [ ] Criar o componente `<Menu />` com os links Home e Sobre Mim com a `className={navegacao}`
-- [ ] Importar os estilos do `<Menu />`
-- [ ] Utilizar o `<Menu />` dentro do **BrowserRouter** mas fora de **Router**
-- [ ] Invés de utilizar as tags `a` utilizar o componente do react-router `<Link to='href'>`
-- [ ]Criar o componente `<MenuLink />` com a `className={link}`
-- [ ] Utilizar o estilo da `className={linkDestacado}` no link ativo/active
-- [ ]
+- [x] Criar o componente `<Menu />` com os links Home e Sobre Mim com a `className={navegacao}`
+- [x] Importar os estilos do `<Menu />`
+- [x] Utilizar o `<Menu />` dentro do **BrowserRouter** mas fora de **Router**
+- [x] Invés de utilizar as tags `a` utilizar o componente do react-router `<MenuLink to='href'>`
+- [x]Criar o componente `<NavLink />` com a `className={link}`
+- [x] Utilizar o estilo da `className={linkDestacado}` no link ativo/active
+- [x] Criar o componente `<Banner />` e importar o seu css disponibilizado.
 
 ## Aula03
 
-- [ ] Aula 03
+- [ ] Criar o componente `<Posts />` e importar o seu css disponibilizado.
 
 ## Aula04
 

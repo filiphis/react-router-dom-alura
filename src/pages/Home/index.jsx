@@ -1,9 +1,11 @@
 import React from "react";
+import Banner from "components/Banner";
 
 export default function Home() {
   return (
-    <div>
-      <h1>Home</h1>
-    </div>
+    <main>
+      <Banner />
+      <h1>Olá Mundo!</h1>
+    </main>
   );
 }
