@@ -30,7 +30,8 @@
 - [ ] Importar um svg para o Rodape utilizando `import {ReactComponent as MarcaRegistrada}`.
 - [ ] Criar o componente `<PaginaPadrao />` para agrupar a estrutura que se repete em várias páginas ( main e Banner)
 - [ ] Criar uma nova rota `<Route path="/" element={<PaginaPadrao />} />` para mostrar o novo componente criado
-- [ ] Utilizar o componente do ReactRouterDom `<Outlet />` na `<PaginaPadrao />` para renderizar o conteudo de cada rota.
+- [ ] Utilizar o componente do ReactRouterDom `<Outlet />` na `<PaginaPadrao />` para renderizar o conteúdo de cada rota.
+- [ ] Utilizar rotas index na rota aninhada home.
 
 ## Aula04
 
