@@ -25,13 +25,15 @@
 
 ## Aula03 - Rotas Aninhadas
 
-- [ ] Criar o componente `<Posts />` e importar o seu css disponibilizado.
+- [x] Criar o componente `<Posts />` e importar o seu css disponibilizado.
 - [ ] Criar o componente `<Rodape />` e importar o seu css disponibilizado.
-- [ ] Importar um svg para o Rodape utilizando `import {ReactComponent as MarcaRegistrada}`.
-- [ ] Criar o componente `<PaginaPadrao />` para agrupar a estrutura que se repete em várias páginas ( main e Banner)
-- [ ] Criar uma nova rota `<Route path="/" element={<PaginaPadrao />} />` para mostrar o novo componente criado
+- [x] Importar um svg para o Rodape utilizando `import {ReactComponent as MarcaRegistrada}`.
+- [x] Criar o componente `<PaginaPadrao />` para agrupar a estrutura que se repete em várias páginas ( main e Banner)
+- [x] Criar uma nova rota `<Route path="/" element={<PaginaPadrao />} />` para mostrar o novo componente criado
 - [ ] Utilizar o componente do ReactRouterDom `<Outlet />` na `<PaginaPadrao />` para renderizar o conteúdo de cada rota.
-- [ ] Utilizar rotas index na rota aninhada home.
+- [x] Utilizar rotas index na rota aninhada home.
+- [x] Criar o componente `<PostModelo />` e importar o seu css disponibilizado.
+- [x] Importar o `<PostModelo />` na pagina `<Sobremim />` e também os estilos da página.
 
 ## Aula04
 
