@@ -1,6 +1,6 @@
 import PostModelo from "components/PostModelo";
 import fotoCapa from "assets/sobre_mim_capa.png";
-import minhaFoto from "assets/sobre_mim_foto.png";
+import minhaFoto from "assets/minha_foto.jpeg";
 import styles from "./styles.module.css";
 
 export default function Sobremim() {

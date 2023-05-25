@@ -3,9 +3,9 @@
 
 # React Router com JavaScript - Alura
 
-<!-- > **_Status:_** Finalizado :heavy_check_mark: -->
+> **_Status:_** Finalizado :heavy_check_mark:
 
-> **_Status:_** Em andamento :construction:
+<!-- > **_Status:_** Em andamento :construction: -->
 
 ## Descrição
 
@@ -22,6 +22,7 @@ Repositório utilizado para estudar o curso da Alura: **_React: desenvolvendo em
 - CSS
 - JS
 - React
+- React Router Dom
 
 ## Autor
 

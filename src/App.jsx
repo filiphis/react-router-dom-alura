@@ -5,6 +5,7 @@ import Notfound from "./pages/Notfound";
 import Menu from "./components/Menu";
 import Rodape from "components/Rodape";
 import PaginaPadrao from "components/PaginaPadrao";
+import Post from "pages/Post";
 
 function App() {
   return (
@@ -16,6 +17,8 @@ function App() {
           <Route index element={<Home />} />
           <Route path="sobremim" element={<Sobremim />} />
         </Route>
+
+        <Route path="post/:id/*" element={<Post />} />
         <Route path="*" element={<Notfound />} />
       </Routes>
 

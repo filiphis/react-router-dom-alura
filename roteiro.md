@@ -35,10 +35,24 @@
 - [x] Criar o componente `<PostModelo />` e importar o seu css disponibilizado.
 - [x] Importar o `<PostModelo />` na pagina `<Sobremim />` e também os estilos da página.
 
-## Aula04
+## Aula04 - Rotas dinâmicas
 
-- [ ] Aula 04
+- [x] Alterar o nome do componente `Post` para `PostCard`.
+- [x] Criar uma página `Post`.
+- [x] Criar a rota `post:id` apontando para a página `Post`
+- [x] O id da rota `post:id` será passado para a página `Post`, onde na página Post utilizaremos o hook `useParams` para receber este valor.
+- [x] Criar um `Link` para cada `postCard` da página home fazendo com que cada `postCard` aponte para sua rota `post/:id`
+- [x] Importar o json de posts na página `Post`.
+- [x] Render cada post conforme seus dados utilizando a componente `PostModelo`.
+- [x] Instalar o pacote `react-markdown`.
+- [x] Utilizar o react-markdown para listar o conteudo do post que está salvo no json como markdown.
+- [x] Criar um arquivo de estilo para a pagina `Post` que será utilizado para estilizar o conteúdo markdown do post.
+- [x] Realizar um if para renderizar outra tela caso o post digitado na rota não exista.
+- [x] Criar a página `NaoEncontrada` e importar seus estilos.
 
-## Aula05
+## Aula05 - Finalizando o projeto
 
-- [ ] Aula 05
+- [x] Criar o componente `BotaoPrincipal` e importar seus estilos.
+- [x] Adicionar um `BotaoPrincipal` na página de error404.
+- [x] No `BotaoPrincipal` utilizar o hook `useNavigate` para retornar para a rota anterior ao erro.
+- [x] Também utilizar o hook `useNavigate` e componente `BotaoPrincipal` quando uma rota incorreta for digitada ná pagina `posts`.
